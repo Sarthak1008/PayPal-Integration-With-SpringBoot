@@ -1,5 +1,4 @@
-"PayPal-Integration-With-SpringBoot" 
-
+PayPal-Integration-With-SpringBoot
 <p>This project seamlessly incorporates PayPal's payment processing capabilities into a Spring Boot application, providing a robust and secure payment solution for e-commerce platforms or online businesses.<</p>
 
 <br>
