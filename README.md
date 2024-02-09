@@ -1,7 +1,7 @@
-"# PayPal-Integration-With-SpringBoot" 
+"PayPal-Integration-With-SpringBoot" 
 
 <p>This project seamlessly incorporates PayPal's payment processing capabilities into a Spring Boot application, providing a robust and secure payment solution for e-commerce platforms or online businesses.<</p>
-<br>
+
 <br>
 Secure Payment Processing: Leveraging the PayPal API, the Spring Boot application facilitates secure payment processing for users. Customers can make payments using various methods supported by PayPal, including credit/debit cards, PayPal balance, or bank accounts. Spring Boot ensures the integration is smooth and reliable, handling payment requests and responses securely.
 <br>
