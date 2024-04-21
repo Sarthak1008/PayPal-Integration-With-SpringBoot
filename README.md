@@ -9,3 +9,7 @@ Seamless Checkout Experience: Integrating PayPal Checkout functionality, the Spr
 <br>
 <br>
 Transaction Management: The Spring Boot application effectively manages transactions, providing real-time updates and notifications to both customers and merchants. With PayPal integration, the application ensures accurate tracking of payments, refunds, and disputes, enabling merchants to maintain transparency and accountability in their transactions.
+
+![PayPal Image](https://i.stack.imgur.com/kZofO.png)
+
+
